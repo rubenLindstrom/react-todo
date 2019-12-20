@@ -4,7 +4,7 @@ import Item from "./todoItem";
 const todoList = () => {
   return (
     <section>
-      <h2>Todo List</h2>
+      <h2>My Todo List</h2>
       <Item />
     </section>
   );
